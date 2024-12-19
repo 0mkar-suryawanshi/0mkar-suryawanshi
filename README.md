@@ -33,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0mkar-suryawanshi&show_icons=true&locale=en&layout=compact" alt="0mkar-suryawanshi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0mkar-suryawanshi&show_icons=true&locale=en" alt="0mkar-suryawanshi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0mkar-suryawanshi&" alt="0mkar-suryawanshi" /></p>
