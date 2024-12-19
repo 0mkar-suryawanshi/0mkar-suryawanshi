@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/0mkar-suryawanshi](https://github.com/0mkar-suryawanshi)
 
-- 💬 Ask me about **react, vue and gsap**
-
 - 📫 How to reach me **suryawanshio639@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/0mkar-suryawanshi](https://github.com/0mkar-suryawanshi)
