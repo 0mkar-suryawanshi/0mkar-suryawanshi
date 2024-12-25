@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Suryawanshi</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate Fullstack developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.201a0fce023b2b6590a6b18a4fdd4f16?pid=1.7&rurl=https%3a%2f%2fuser-images.githubusercontent.com%2f55389276%2f140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&ehk=8bWWNYb0o3fqqam6MMSArbyYp1SB54A0nfT%2b%2byALpi4%3d">
 
@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS,SpringBoot**
+- 🌱 I’m currently learning **ReactJS**
 
-- 👯 I’m looking to collaborate on **my projects.**
+- 👯 I’m looking to collaborate on **Projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/0mkar-suryawanshi](https://github.com/0mkar-suryawanshi)
 
