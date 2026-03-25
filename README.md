@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **suryawanshio639@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/0mkar-suryawanshi](https://github.com/0mkar-suryawanshi)
+- 📄 Know about my experiences https://www.linkedin.com/in/0mkar-suryawanshi/
 
 - ⚡ Fun fact **I am funny😎**
 
